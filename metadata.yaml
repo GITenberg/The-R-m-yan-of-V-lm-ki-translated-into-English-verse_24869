@@ -1,0 +1,41 @@
+_repo: The-R-m-yan-of-V-lm-ki-translated-into-English-verse_24869
+_version: 0.1.0
+alternative_title: Ramayana. English
+contributor:
+  translator:
+    agent_name: Griffith, Ralph T. H. (Ralph Thomas Hotchkin)
+    aliases:
+    - Griffiths, Ralph T. H. (Ralph Thomas Hotchkin)
+    - Griffith, Ralph Thomas Hotchkin
+    birthdate: 1826
+    deathdate: 1906
+    gutenberg_agent_id: '26788'
+    url: http://www.gutenberg.org/2009/agents/26788
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_T._H._Griffith
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Valmiki
+    alias: Válmíki
+    gutenberg_agent_id: '7984'
+    url: http://www.gutenberg.org/2009/agents/7984
+    wikipedia: http://en.wikipedia.org/wiki/Valmiki
+description: ''
+gutenberg_bookshelf: India
+gutenberg_issued: '2008-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- India'
+- !lcsh 'Epic poetry, Sanskrit -- Translations into English'
+- !lcc 'PK'
+- !lcsh 'Rama (Hindu deity) -- Poetry'
+title: The Rámáyan of Válmíki, translated into English verse
+url: http://www.gutenberg.org/ebooks/24869

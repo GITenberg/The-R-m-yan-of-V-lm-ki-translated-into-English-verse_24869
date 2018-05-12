@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7984
     wikipedia: http://en.wikipedia.org/wiki/Valmiki
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24869#The-R-m-yan-of-V-lm-ki-translated-into-English-verse
 gutenberg_bookshelf: India
 gutenberg_issued: '2008-03-18'
 gutenberg_type: Text
